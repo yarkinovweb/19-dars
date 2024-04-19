@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,7 +6,7 @@
   list-style-type: none;
 }
 
-.sayt{
+.sayt {
   width: 1200px;
   height: 600px;
   border: 5px solid black;
@@ -14,7 +14,7 @@
   margin-top: 10px;
 }
 
-.navbar{
+.navbar {
   background-color: teal;
   display: flex;
   justify-content: space-between;
@@ -22,19 +22,19 @@
   padding: 10px 20px;
 }
 
-.navbar ul{
+.navbar ul {
   display: flex;
   gap: 40px;
 }
 
-.navbar ul li a{
+.navbar ul li a {
   display: block;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
-  color: red;
+  color: white;
 }
 
-.navbar h1{
+.navbar h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
   color: white;
